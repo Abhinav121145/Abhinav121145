@@ -29,39 +29,35 @@ I am an Information Science student passionate about Full Stack Development and 
 
  📌 Featured Projects
 
-🤖 Natasha-AI Personal Assistant
+🤖 Natasha-AI Personal Assistant:
+
 AI-powered personal assistant that generates human-like responses using LLM and supports text and voice interaction.
 
 **Tech:** Groq Llama-3, ElevenLabs, Deepgram, Python
 
 
 
-🌍 GeoImpact-AI Geopolitical Intelligence Dashboard
+🌍 GeoImpact-AI Geopolitical Intelligence Dashboard:
+
 AI-powered dashboard that analyzes geopolitical news sentiment and predicts impact on oil prices and stock market using machine learning.
 
 **Tech:** React, Django, WebSockets, NewsAPI, Yahoo Finance API, Scikit-learn
 
 
 
- 💰 SmartBudget AI – Personal Finance Management System
+ 💰 SmartBudget AI – Personal Finance Management System:
+ 
 AI-powered finance management system that tracks income, categorizes expenses, and predicts monthly spending.
 
 **Tech:** Flask, SQLite, Machine Learning, Pandas, Chart.js
 
 
 
- 🍽️ Food Aggregator Application
+ 🍽️ Food Aggregator Application:
+ 
 Application to compare food prices across platforms and view trending offers and restaurants.
 
 **Tech:** Streamlit, Python
-
-
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinav121145&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav121145&layout=compact&theme=tokyonight)
-
 
 
 ## 📫 Connect With Me
